@@ -1,7 +1,5 @@
 package com.javainuse;
-/**
- * @author Full Stack Developer
- */
+
 import com.hazelcast.config.Config;
 import com.hazelcast.config.EvictionPolicy;
 import com.hazelcast.config.MapConfig;
